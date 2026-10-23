@@ -1,0 +1,7 @@
+pandas
+jupyter
+matplotlib
+ipykernel
+nbconvert
+nbclient
+pytest
